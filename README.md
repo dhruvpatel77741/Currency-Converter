@@ -19,7 +19,7 @@ A simple Currency Converter web application that fetches live exchange rates and
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/dhruvpatel777141/currency-converter.git
 
 2. Navigate to the project directory.
    ```bash
